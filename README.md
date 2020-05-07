@@ -4,4 +4,28 @@ Plateforme d'envois de SMS en vrac; Pour un déploiement envoyer moi un mail à 
 
 # Images
 
-![alt text](<11782481_588611951279015_1049752557335721987_o.png>)
+Home:
+
+![alt text](<home.PNG>)
+
+Messages:
+
+![alt text](<acceuil.PNG>)
+
+Add messages:
+
+![alt text](<new_SMS.PNG>)
+
+![alt text](<new_SMS2.PNG>)
+
+Update messages:
+
+![alt text](<menu_left_update.PNG>)
+
+Add contact:
+
+![alt text](<Contact_ajout.PNG>)
+
+Excell import:
+
+![alt text](<Excell_import.PNG>)
